@@ -1,0 +1,2 @@
+# MusicGen
+Music Generation Project
